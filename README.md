@@ -14,12 +14,18 @@ The indicators is:
 
 1. **Average number of students per class (2011-2020)**:
 
-![](output/media_alunos_por_turma.jpeg)
+<p align="center" width="80%">
+    <img width="80%" src="https://github.com/thiagocalm/educacao/blob/master/output/media_alunos_por_turma.jpeg">
+</p>
 
 2. **Pass rate by level of education (2011-2019)**:
 
-![](output/taxa_aprovacao_ef_em.jpeg)
+<p align="center" width="80%">
+    <img width="80%" src="https://github.com/thiagocalm/educacao/blob/master/output/taxa_aprovacao_ef_em.jpeg">
+</p>
 
 3. **Dropout rate by level of education (2011-2019)**:
 
-![](output/taxa_abandono_ef_em.jpeg)
+<p align="center" width="80%">
+    <img width="80%" src="https://github.com/thiagocalm/educacao/blob/master/output/taxa_abandono_ef_em.jpeg">
+</p>
